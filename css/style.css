@@ -1,0 +1,42 @@
+
+@import url(menu.css);
+@import url(hero.css);
+@import url(about.css);
+@import url(tuts.css);
+@import url(footer.css);
+@import url(video.css);
+@import url(responsive.css);
+#contact {
+    text-align: center ;
+    background-color: #f2f4f4;
+    padding: 50px 0 ;
+    height: 650px ;
+
+}
+.col-2 {
+    width: 50% ;
+    float: left ;
+}
+input[type="text"] , textarea {
+    background-color:white;
+    width: 80% ;
+    height: 40px ;
+    border: 1px solid #999;
+    border-radius :15px ;
+    margin : 5px 0 ;
+    direction : rtl ;
+    padding: 0 20px ;
+    font-size: 14px ;
+    font-weight: bold ;
+
+}
+textarea{
+
+    height: auto ;
+ 
+}
+
+#gmap_canvas img{
+    max-width:none!important;
+    background:none!important;
+}

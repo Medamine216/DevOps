@@ -1,0 +1,44 @@
+
+#tuts {
+     background-color: #253342 ;
+     text-align: center ;
+     color: white ;
+    padding-top: 50px;
+ }
+#tuts h1 {
+        color: white ;
+    }
+.row {
+   
+        width: 90% ;
+        margin: 50px auto ; 
+}
+.col-3 {
+    border: 1px solid #ccc;
+    border-radius: 15px ;
+    width: 32% ;
+    float: left ;
+    margin-left: 1% ;
+    padding: 10px ;
+}
+.col-left {
+    margin-left: 1%;
+}
+.tut-header {
+    font-size: 30px ;
+    font-weight: bold ;
+}
+.col-3 img {
+    border: 1px #cccccc solid;
+    border-radius: 15px ;
+    box-shadow : 0px 5px 10px  black ;
+    width: 100% ;
+    max-width: 260px ;
+}
+
+.cta.tuts {
+    background-color: white ;
+    color: black ;
+    box-shadow:  0 5px white ;
+  
+}
